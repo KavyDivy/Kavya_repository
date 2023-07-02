@@ -1,6 +1,6 @@
 hello everyone
-<<<<<<< Updated upstream
+
 not everyone
-=======
+
 hello again
->>>>>>> Stashed changes
+
