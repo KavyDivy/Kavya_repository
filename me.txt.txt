@@ -1,6 +1,7 @@
 THis is me
-<<<<<<< Updated upstream
+
 not me
-=======
+
 me again
->>>>>>> Stashed changes
+
+me too
